@@ -8,7 +8,7 @@ def sequencia_fibonacci(n):
 num = int(input("Digite um número: "))
 
 # Gera a sequência de Fibonacci até o número fornecido
-fib_sequence = fibonacci_sequence(num)
+fib_sequence = sequencia_fibonacci(num)
 
 # Verifica se o número pertence à sequência de Fibonacci
 if num in fib_sequence:
